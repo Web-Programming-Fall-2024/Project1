@@ -14,7 +14,7 @@
 
 This project focuses on creating interactive and visually appealing recipe pages. Users will experience animations, interactive ingredient lists, and dynamic step-by-step instructions. The design utilizes CSS animations and transitions to deliver an engaging experience.
 
-### Key Features:
+## Key Features:
 
 - **Homepage**: Introduces users to various dishes with interactive animations, inviting them to explore each recipe.
 - **Recipe Pages**: Each recipe page will feature a recipe card at the top, followed by detailed step-by-step instructions and an interactive ingredient list.
